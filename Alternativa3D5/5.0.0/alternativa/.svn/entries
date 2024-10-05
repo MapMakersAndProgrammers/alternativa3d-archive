@@ -1,34 +1,0 @@
-8
-
-dir
-46043
-http://svndev.alternativaplatform.com/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa
-http://svndev.alternativaplatform.com
-
-
-
-2008-08-25T13:14:49.962000Z
-161
-int
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-d9e2387a-1f3e-40e2-b57f-9df5970a2fa5
-
-utils
-dir
-
-engine3d
-dir
-

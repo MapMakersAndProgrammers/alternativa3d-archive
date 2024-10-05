@@ -1,58 +1,0 @@
-8
-
-dir
-46043
-http://svndev.alternativaplatform.com/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d
-http://svndev.alternativaplatform.com
-
-
-
-2010-05-06T08:27:09.183506Z
-33373
-int
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-d9e2387a-1f3e-40e2-b57f-9df5970a2fa5
-
-alternativa3d.as
-file
-
-
-
-
-2010-10-28T04:31:19.000000Z
-64183f832985e252cc4bc98977484bc9
-2009-02-11T11:56:39.925226Z
-7238
-wolf
-
-containers
-dir
-
-controllers
-dir
-
-core
-dir
-
-loaders
-dir
-
-objects
-dir
-
-primitives
-dir
-
