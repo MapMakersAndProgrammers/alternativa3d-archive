@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects
+END
+Joint.as
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects/Joint.as
+END
+Skin.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects/Skin.as
+END
+Terrain.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects/Terrain.as
+END
+HeightMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects/HeightMap.as
+END
+LightMapGenerator.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects/LightMapGenerator.as
+END
+Mesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/objects/Mesh.as
+END

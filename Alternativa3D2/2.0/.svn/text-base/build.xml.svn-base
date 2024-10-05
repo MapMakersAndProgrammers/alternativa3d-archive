@@ -1,0 +1,21 @@
+<project name="Publisher" default="clear" basedir=".">
+	
+	<property name="project" value="Engine3D"/>
+	
+	<target name="uncompress">
+		<unzip src="${project}.swc" dest="swc" />
+		<move file="swc/library.swf" tofile="swc/${project}.swf"/>
+	</target>
+
+	<target name="publish" depends="uncompress">
+		<scp file="swc/${project}.swf"
+			passphrase="${com.alternativagame.publish.passphrase}"
+			keyfile="${com.alternativagame.publish.key}"
+			todir="${com.alternativagame.publish.user}@${com.alternativagame.publish.server}.${com.alternativagame.publish.host}:${com.alternativagame.publish.server}_server/${com.alternativagame.publish.path}" trust="true"></scp>
+	</target>
+	
+	<target name="clear" depends="publish">
+		<delete dir="swc" />
+	</target>
+	
+</project>

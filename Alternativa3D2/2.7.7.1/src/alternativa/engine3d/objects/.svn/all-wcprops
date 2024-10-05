@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects
+END
+Sprite3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/Sprite3D.as
+END
+SkyBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/SkyBox.as
+END
+Occluder.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/Occluder.as
+END
+Bone.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/Bone.as
+END
+Joint.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/Joint.as
+END
+BSP.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/BSP.as
+END
+Skin.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/Skin.as
+END
+VertexBinding.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/VertexBinding.as
+END
+AnimSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/AnimSprite.as
+END
+Mesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/44977/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.7.1/src/alternativa/engine3d/objects/Mesh.as
+END

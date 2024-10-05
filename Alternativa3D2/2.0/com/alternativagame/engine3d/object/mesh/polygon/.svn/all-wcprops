@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/polygon
+END
+Polygon3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/polygon/Polygon3D.as
+END
+TexturePolygon3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/polygon/TexturePolygon3D.as
+END
+FillPolygon3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/polygon/FillPolygon3D.as
+END
+WirePolygon3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/polygon/WirePolygon3D.as
+END

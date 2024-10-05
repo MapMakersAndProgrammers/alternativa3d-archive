@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object
+END
+HelperObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/HelperObject3D.as
+END
+Object3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/Object3D.as
+END
+Sprite3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/Sprite3D.as
+END
+Dummy3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/Dummy3D.as
+END
+SkinObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/SkinObject3D.as
+END

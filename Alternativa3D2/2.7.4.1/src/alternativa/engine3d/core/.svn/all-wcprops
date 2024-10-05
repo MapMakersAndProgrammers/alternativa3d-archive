@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core
+END
+Vertex.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Vertex.as
+END
+Camera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Camera3D.as
+END
+Wrapper.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Wrapper.as
+END
+MouseEvent3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/MouseEvent3D.as
+END
+Sorting.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Sorting.as
+END
+Debug.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Debug.as
+END
+Geometry.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Geometry.as
+END
+Object3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Object3D.as
+END
+Face.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Face.as
+END
+Object3DContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Object3DContainer.as
+END
+MipMapping.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/MipMapping.as
+END
+KDNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/KDNode.as
+END
+Clipping.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Clipping.as
+END
+View.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/View.as
+END
+Canvas.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/core/Canvas.as
+END

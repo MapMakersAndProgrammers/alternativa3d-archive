@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/physics
+END
+SphereCollider.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/physics/SphereCollider.as
+END
+Collision.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/physics/Collision.as
+END
+CollisionPlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/physics/CollisionPlane.as
+END

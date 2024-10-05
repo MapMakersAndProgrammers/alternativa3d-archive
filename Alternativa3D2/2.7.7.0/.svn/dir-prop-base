@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 48
+help
+Alternativa3D API Documentation.launch
+bin
+
+K 13
+svn:mergeinfo
+V 574
+/platform/clients/fp10/libraries/Alternativa3D/branches/7.0:5796-7235
+/platform/clients/fp10/libraries/Alternativa3D/branches/7.0.2:17447,17456-18883
+/platform/clients/fp10/libraries/Alternativa3D/branches/7.3.Animation:33901-34679
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4:304-463
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4.MouseEvents:1556-1900
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4.SingularMapping:2042-2060
+/platform/clients/fp9/libraries/Alternativa3D/trunk:304-494,1465-2616,2621-2676,2680-2696,2710-2743,2778-2783
+END

@@ -1,0 +1,76 @@
+8
+
+dir
+46043
+http://svndev.alternativaplatform.com/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d
+http://svndev.alternativaplatform.com
+
+
+
+2008-08-25T13:14:49.962000Z
+161
+int
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d9e2387a-1f3e-40e2-b57f-9df5970a2fa5
+
+materials
+dir
+
+physics
+dir
+
+alternativa3d.as
+file
+
+
+
+
+2010-10-28T04:34:22.000000Z
+223b93b983435c6892dde203f8f6eb63
+2008-08-25T13:14:49.962000Z
+161
+int
+
+display
+dir
+
+controllers
+dir
+
+core
+dir
+
+loaders
+dir
+
+Alternativa3DVersion.as
+file
+
+
+
+
+2010-10-28T04:34:22.000000Z
+95291b073e3f82e0f5f06949f4c9a13d
+2008-08-25T13:14:49.962000Z
+161
+int
+
+primitives
+dir
+
+errors
+dir
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation
+END
+Animation.as
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/Animation.as
+END
+AnimationState.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/AnimationState.as
+END
+AnimationTimer.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/AnimationTimer.as
+END
+AnimationController.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/AnimationController.as
+END
+MatrixAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/MatrixAnimation.as
+END
+Track.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/Track.as
+END
+TransformAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/TransformAnimation.as
+END
+AnimationGroup.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/35735/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.4.1/src/alternativa/engine3d/animation/AnimationGroup.as
+END

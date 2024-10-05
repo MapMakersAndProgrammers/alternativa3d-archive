@@ -1,0 +1,71 @@
+8
+
+dir
+46043
+http://svndev.alternativaplatform.com/platform/clients/fp10/libraries/Alternativa3D/tags/2.7.3.0/src/alternativa/engine3d/loaders
+http://svndev.alternativaplatform.com
+
+
+
+2010-05-09T17:54:05.218847Z
+33846
+int
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d9e2387a-1f3e-40e2-b57f-9df5970a2fa5
+
+collada
+dir
+
+events
+dir
+
+MaterialLoader.as
+file
+
+
+
+
+2010-10-28T04:31:07.000000Z
+af205dfd0e8d879560497330faf367d3
+2010-05-09T17:54:05.218847Z
+33846
+int
+has-props
+
+Parser3DS.as
+file
+
+
+
+
+2010-10-28T04:31:07.000000Z
+084c58c836806a9d0a061e435db3086f
+2010-05-06T08:17:52.262888Z
+33368
+int
+
+ParserCollada.as
+file
+
+
+
+
+2010-10-28T04:31:07.000000Z
+847343f4f33500f359ae00e6585e60fb
+2010-04-27T23:54:06.560483Z
+32470
+andrei
+

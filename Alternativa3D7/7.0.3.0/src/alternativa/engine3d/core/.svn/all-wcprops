@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core
+END
+BackfaceCulling.as
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/BackfaceCulling.as
+END
+Object3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Object3D.as
+END
+Camera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Camera3D.as
+END
+BoundBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/BoundBox.as
+END
+Object3DContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Object3DContainer.as
+END
+MipMapping.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/MipMapping.as
+END
+MipMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/MipMap.as
+END
+KDNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/KDNode.as
+END
+Clipping.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Clipping.as
+END
+Sorting.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Sorting.as
+END
+Debug.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Debug.as
+END
+BSPNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/BSPNode.as
+END
+Canvas.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/19406/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.3.0/src/alternativa/engine3d/core/Canvas.as
+END

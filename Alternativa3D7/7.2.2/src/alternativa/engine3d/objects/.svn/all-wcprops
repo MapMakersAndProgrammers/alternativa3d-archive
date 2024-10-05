@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects
+END
+Sprite3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/Sprite3D.as
+END
+LOD.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/LOD.as
+END
+Reference.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/Reference.as
+END
+Axes.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/Axes.as
+END
+Occluder.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/Occluder.as
+END
+SkeletalMesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/SkeletalMesh.as
+END
+WireQuad.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/WireQuad.as
+END
+Bone.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/Bone.as
+END
+WireBoundBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/WireBoundBox.as
+END
+AnimSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/AnimSprite.as
+END
+Mesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/33373/platform/clients/fp10/libraries/Alternativa3D/tags/7.2.2/src/alternativa/engine3d/objects/Mesh.as
+END

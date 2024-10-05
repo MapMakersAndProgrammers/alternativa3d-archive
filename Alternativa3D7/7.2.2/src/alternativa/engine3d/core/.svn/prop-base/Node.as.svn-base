@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 816
+/platform/clients/fp10/libraries/Alternativa3D/branches/7.0/src/alternativa/engine3d/core/KDNode.as:5796-7235
+/platform/clients/fp10/libraries/Alternativa3D/branches/7.0.2/src/alternativa/engine3d/core/KDNode.as:17447,17456-18883
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4/alternativa/engine3d/core/KDNode.as:304-463
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4.MouseEvents/src/alternativa/engine3d/core/KDNode.as:1556-1900
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4.SingularMapping/src/alternativa/engine3d/core/KDNode.as:2042-2060
+/platform/clients/fp9/libraries/Alternativa3D/trunk/alternativa/engine3d/core/KDNode.as:304-494
+/platform/clients/fp9/libraries/Alternativa3D/trunk/src/alternativa/engine3d/core/KDNode.as:1465-2616,2621-2676,2680-2696,2710-2743,2778-2783
+END

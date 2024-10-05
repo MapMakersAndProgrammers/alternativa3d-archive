@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive
+END
+Box3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive/Box3D.as
+END
+Plane.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive/Plane.as
+END
+Geosphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive/Geosphere.as
+END
+Triangle.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive/Triangle.as
+END
+Sphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive/Sphere.as
+END
+GeoPlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/object/mesh/primitive/GeoPlane.as
+END

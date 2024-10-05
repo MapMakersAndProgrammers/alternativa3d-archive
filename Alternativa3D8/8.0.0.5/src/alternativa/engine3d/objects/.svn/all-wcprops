@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects
+END
+Joint.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects/Joint.as
+END
+Skin.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects/Skin.as
+END
+Terrain.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects/Terrain.as
+END
+HeightMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects/HeightMap.as
+END
+LightMapGenerator.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects/LightMapGenerator.as
+END
+Mesh.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/44476/platform/clients/fp11/libraries/Alternativa3D/tags/8.0.0.5/src/alternativa/engine3d/objects/Mesh.as
+END

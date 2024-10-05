@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials
+END
+Material.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/Material.as
+END
+TextureMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/TextureMaterial.as
+END
+FillMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/FillMaterial.as
+END
+WireMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/WireMaterial.as
+END
+DrawPoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/DrawPoint.as
+END
+SurfaceMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/SurfaceMaterial.as
+END
+TextureMaterialPrecision.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/162/platform/clients/fp9/libraries/Alternativa3D/tags/5.0.0/alternativa/engine3d/materials/TextureMaterialPrecision.as
+END

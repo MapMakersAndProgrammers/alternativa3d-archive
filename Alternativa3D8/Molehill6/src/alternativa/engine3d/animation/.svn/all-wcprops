@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation
+END
+Animation.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/Animation.as
+END
+AnimationState.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/AnimationState.as
+END
+AnimationTimer.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/AnimationTimer.as
+END
+BoundBoxAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/BoundBoxAnimation.as
+END
+AnimationController.as
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/AnimationController.as
+END
+MatrixAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/MatrixAnimation.as
+END
+Track.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/Track.as
+END
+TransformAnimation.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/TransformAnimation.as
+END
+AnimationGroup.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/animation/AnimationGroup.as
+END

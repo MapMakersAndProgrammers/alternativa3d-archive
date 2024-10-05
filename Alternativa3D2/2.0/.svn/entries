@@ -1,0 +1,85 @@
+8
+
+dir
+46043
+http://svndev.alternativaplatform.com/platform/clients/fp9/libraries/Alternativa3D/branches/2.0
+http://svndev.alternativaplatform.com
+
+
+
+2008-08-25T13:05:49.549299Z
+154
+int
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d9e2387a-1f3e-40e2-b57f-9df5970a2fa5
+
+.flexLibProperties
+file
+
+
+
+
+2010-10-28T04:34:04.000000Z
+4fe6dee7f1bdbb5a1e5194ee7aebe60b
+2008-08-25T13:05:49.549299Z
+154
+int
+
+.project
+file
+
+
+
+
+2010-10-28T04:34:04.000000Z
+9457539afd155fd30e12990ba61fc463
+2008-08-25T13:05:49.549299Z
+154
+int
+
+.externalToolBuilders
+dir
+
+.actionScriptProperties
+file
+
+
+
+
+2010-10-28T04:34:04.000000Z
+7a1a021a8c4e28aebdde0a6869688e2e
+2008-08-25T13:05:49.549299Z
+154
+int
+
+.settings
+dir
+
+com
+dir
+
+build.xml
+file
+
+
+
+
+2010-10-28T04:34:04.000000Z
+47f4682d51f5cc6d221f595ffd67d21d
+2008-08-25T13:05:49.549299Z
+154
+int
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/497/platform/clients/fp10/libraries/Alternativa3D/tags/5.4.1/alternativa/engine3d/physics
+END
+EllipsoidCollider.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/497/platform/clients/fp10/libraries/Alternativa3D/tags/5.4.1/alternativa/engine3d/physics/EllipsoidCollider.as
+END
+Collision.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/497/platform/clients/fp10/libraries/Alternativa3D/tags/5.4.1/alternativa/engine3d/physics/Collision.as
+END
+CollisionPlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/497/platform/clients/fp10/libraries/Alternativa3D/tags/5.4.1/alternativa/engine3d/physics/CollisionPlane.as
+END
+CollisionSetMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/497/platform/clients/fp10/libraries/Alternativa3D/tags/5.4.1/alternativa/engine3d/physics/CollisionSetMode.as
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material
+END
+HelperMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/HelperMaterial.as
+END
+Material.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/Material.as
+END
+TextureMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/TextureMaterial.as
+END
+Hit.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/Hit.as
+END
+FillMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/FillMaterial.as
+END
+ObjectMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/ObjectMaterial.as
+END
+SpriteMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/SpriteMaterial.as
+END
+WireMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/WireMaterial.as
+END
+PolygonMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/PolygonMaterial.as
+END
+SpritePhase.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/154/platform/clients/fp9/libraries/Alternativa3D/branches/2.0/com/alternativagame/engine3d/material/SpritePhase.as
+END

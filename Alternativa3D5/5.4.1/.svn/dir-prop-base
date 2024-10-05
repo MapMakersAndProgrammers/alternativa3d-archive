@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 46
+help
+Alternativa3D API Documentation.launch
+
+K 13
+svn:mergeinfo
+V 187
+/platform/clients/fp10/libraries/Alternativa3D/trunk:306-495
+/platform/clients/fp9/libraries/Alternativa3D/branches/5.4:304-463
+/platform/clients/fp9/libraries/Alternativa3D/trunk:304-494
+END

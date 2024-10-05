@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core
+END
+Object3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/Object3D.as
+END
+Camera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/Camera3D.as
+END
+BoundBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/BoundBox.as
+END
+Object3DContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/Object3DContainer.as
+END
+MeshMath.hx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/MeshMath.hx
+END
+MipMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/MipMap.as
+END
+KDNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/KDNode.as
+END
+BSPNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/BSPNode.as
+END
+Canvas.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/17805/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.2.2/src/alternativa/engine3d/core/Canvas.as
+END

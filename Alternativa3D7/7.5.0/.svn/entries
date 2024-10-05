@@ -1,0 +1,97 @@
+8
+
+dir
+46043
+http://svndev.alternativaplatform.com/platform/clients/fp10/libraries/Alternativa3D/tags/7.5.0
+http://svndev.alternativaplatform.com
+
+
+
+2010-07-12T12:17:33.298200Z
+37167
+int
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d9e2387a-1f3e-40e2-b57f-9df5970a2fa5
+
+META-INF
+dir
+
+.flexLibProperties
+file
+
+
+
+
+2010-10-28T04:31:22.000000Z
+14a9fdcb8838929f9035c119de4aaaa3
+2010-07-09T12:12:26.826484Z
+37014
+int
+
+Alternativa3D.iml
+file
+
+
+
+
+2010-10-28T04:31:22.000000Z
+9c0aa0d6b289c2e1e5e0bc151cf5f571
+2010-06-30T15:01:49.225790Z
+36424
+andrei
+
+.project
+file
+
+
+
+
+2010-10-28T04:31:22.000000Z
+8cbcea651617654095d5a5cbf2f30c5b
+2010-03-25T10:19:33.395258Z
+30346
+int
+
+src
+dir
+
+pom.xml
+file
+
+
+
+
+2010-10-28T04:31:22.000000Z
+8fe51578cdaf5265bf6a1b203edd95bd
+2010-05-12T11:18:15.538273Z
+34228
+mike
+
+.actionScriptProperties
+file
+
+
+
+
+2010-10-28T04:31:22.000000Z
+45fab5cc6b0312324f1abafa4ed2d9dd
+2010-07-09T12:12:26.826484Z
+37014
+int
+
+.settings
+dir
+

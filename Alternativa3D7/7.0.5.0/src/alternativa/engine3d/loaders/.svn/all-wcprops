@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders
+END
+TextureFilesData.as
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/TextureFilesData.as
+END
+Loader3DS.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/Loader3DS.as
+END
+MaterialParams.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/MaterialParams.as
+END
+Parsed3DSData.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/Parsed3DSData.as
+END
+Loader3DSByteArray.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/Loader3DSByteArray.as
+END
+Parser3DS.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/Parser3DS.as
+END
+TextureLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/TextureLoader.as
+END
+BatchTextureLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/BatchTextureLoader.as
+END
+TextureInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/20456/platform/clients/fp10/libraries/Alternativa3D/tags/7.0.5.0/src/alternativa/engine3d/loaders/TextureInfo.as
+END

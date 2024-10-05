@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/loaders
+END
+CommonMaterialsLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/loaders/CommonMaterialsLoader.as
+END
+MaterialLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/loaders/MaterialLoader.as
+END
+Parser3DS.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/loaders/Parser3DS.as
+END
+ParserCollada.as
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/43874/platform/clients/fp11/libraries/Alternativa3D/branches/Molehill6/src/alternativa/engine3d/loaders/ParserCollada.as
+END
